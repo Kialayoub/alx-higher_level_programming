@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// computes and prints a factorial
+// factorial
 
 function factorial (n) {
   if ((isNaN(n)) || (n === 1)) {

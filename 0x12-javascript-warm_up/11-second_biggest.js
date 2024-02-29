@@ -1,6 +1,5 @@
 #!/usr/bin/node
-// Searches the second biggest integer in the list of arguments
-
+// s the second biggest integer in the list 
 const args = process.argv;
 
 if (isNaN(args[2])) {

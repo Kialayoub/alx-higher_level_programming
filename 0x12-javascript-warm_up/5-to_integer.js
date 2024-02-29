@@ -1,5 +1,6 @@
 #!/usr/bin/node
-// prints two arguments passed to it, in the following format: “ is ”
+// Outputs two arguments passed to the script, formatted as "argument1 is argument2"
+
 
 if (isNaN(process.argv[2])) {
   console.log('Not a number');
